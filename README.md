@@ -1,1 +1,1 @@
-# Multivariable-Calculus-Solver
+# Multivariable Calculus Solver
